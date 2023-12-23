@@ -1,0 +1,132 @@
+"Borough","Bedroom.Category","Count.of.rents","Mean","Lower.quartile","Median","Upper.quartile"
+"Barking and Dagenham","Studio",10,779,750,750,850
+"Barking and Dagenham","1 Bedroom",200,1046,950,1050,1100
+"Barking and Dagenham","2 Bedrooms",340,1266,1200,1250,1350
+"Barking and Dagenham","3 Bedrooms",240,1505,1400,1500,1600
+"Barnet","Studio",110,962,850,950,1050
+"Barnet","1 Bedroom",550,1231,1100,1225,1350
+"Barnet","2 Bedrooms",1030,1522,1365,1500,1650
+"Barnet","3 Bedrooms",370,2002,1750,1900,2200
+"Bexley","Studio",20,876,800,850,925
+"Bexley","1 Bedroom",170,1011,900,995,1100
+"Bexley","2 Bedrooms",300,1265,1150,1250,1400
+"Bexley","3 Bedrooms",260,1531,1300,1500,1750
+"Brent","Studio",50,884,800,888,950
+"Brent","1 Bedroom",170,1224,1100,1200,1300
+"Brent","2 Bedrooms",270,1513,1350,1450,1600
+"Brent","3 Bedrooms",210,1852,1700,1800,2000
+"Bromley","Studio",40,842,750,820,900
+"Bromley","1 Bedroom",770,1084,975,1075,1200
+"Bromley","2 Bedrooms",1020,1382,1250,1350,1500
+"Bromley","3 Bedrooms",430,1751,1500,1700,1950
+"Camden","Studio",160,1029,888,996,1100
+"Camden","1 Bedroom",430,1718,1350,1603,1880
+"Camden","2 Bedrooms",510,2407,1850,2200,2600
+"Camden","3 Bedrooms",190,3200,2513,3000,3683
+"City of London","Studio",20,1696,1350,1582,1950
+"City of London","1 Bedroom",40,1977,1680,1900,2145
+"City of London","2 Bedrooms",20,2526,2250,2500,2800
+"Croydon","Studio",80,858,775,850,925
+"Croydon","1 Bedroom",460,1007,915,990,1100
+"Croydon","2 Bedrooms",650,1277,1160,1250,1375
+"Croydon","3 Bedrooms",260,1553,1350,1500,1750
+"Ealing","Studio",70,986,900,990,1094
+"Ealing","1 Bedroom",490,1282,1150,1300,1400
+"Ealing","2 Bedrooms",760,1578,1400,1550,1700
+"Ealing","3 Bedrooms",290,1974,1650,1860,2200
+"Enfield","Studio",40,848,800,850,900
+"Enfield","1 Bedroom",200,1093,1000,1069,1175
+"Enfield","2 Bedrooms",360,1365,1278,1350,1450
+"Enfield","3 Bedrooms",210,1678,1513,1650,1800
+"Greenwich","Studio",40,962,820,900,1050
+"Greenwich","1 Bedroom",420,1241,1000,1200,1440
+"Greenwich","2 Bedrooms",740,1507,1250,1450,1700
+"Greenwich","3 Bedrooms",350,1802,1500,1700,2000
+"Hackney","Studio",50,1208,950,1175,1350
+"Hackney","1 Bedroom",340,1550,1300,1483,1730
+"Hackney","2 Bedrooms",330,1953,1600,1850,2170
+"Hackney","3 Bedrooms",160,2417,2000,2400,2750
+"Hammersmith and Fulham","Studio",70,1132,964,1056,1300
+"Hammersmith and Fulham","1 Bedroom",420,1549,1322,1500,1694
+"Hammersmith and Fulham","2 Bedrooms",480,2076,1650,1907,2400
+"Hammersmith and Fulham","3 Bedrooms",160,2967,2250,2650,3400
+"Haringey","Studio",80,941,850,925,1000
+"Haringey","1 Bedroom",380,1362,1250,1350,1451
+"Haringey","2 Bedrooms",500,1676,1475,1600,1840
+"Haringey","3 Bedrooms",160,2082,1750,1900,2350
+"Harrow","Studio",30,816,700,813,950
+"Harrow","1 Bedroom",250,1110,997,1100,1200
+"Harrow","2 Bedrooms",570,1390,1275,1350,1450
+"Harrow","3 Bedrooms",380,1772,1625,1750,1900
+"Havering","Studio",20,773,700,775,850
+"Havering","1 Bedroom",200,973,900,950,1050
+"Havering","2 Bedrooms",340,1236,1150,1250,1350
+"Havering","3 Bedrooms",270,1486,1350,1475,1600
+"Hillingdon","Studio",80,862,700,771,998
+"Hillingdon","1 Bedroom",640,1035,950,1000,1115
+"Hillingdon","2 Bedrooms",1010,1325,1200,1300,1418
+"Hillingdon","3 Bedrooms",570,1530,1350,1535,1700
+"Hounslow","Studio",70,883,700,850,1000
+"Hounslow","1 Bedroom",380,1270,1050,1250,1481
+"Hounslow","2 Bedrooms",570,1519,1295,1400,1660
+"Hounslow","3 Bedrooms",290,1778,1500,1650,1850
+"Islington","Studio",40,1084,900,1000,1200
+"Islington","1 Bedroom",400,1604,1387,1520,1750
+"Islington","2 Bedrooms",330,2139,1700,2046,2399
+"Islington","3 Bedrooms",140,2568,2080,2400,2817
+"Kensington and Chelsea","Studio",380,1589,1300,1517,1712
+"Kensington and Chelsea","1 Bedroom",1060,2359,1842,2145,2625
+"Kensington and Chelsea","2 Bedrooms",1070,3173,2383,2903,3597
+"Kensington and Chelsea","3 Bedrooms",350,4998,3333,4353,6067
+"Kingston upon Thames","Studio",10,870,825,875,900
+"Kingston upon Thames","1 Bedroom",190,1160,1050,1155,1260
+"Kingston upon Thames","2 Bedrooms",290,1497,1300,1450,1650
+"Kingston upon Thames","3 Bedrooms",120,1975,1625,1900,2250
+"Lambeth","Studio",60,926,800,900,1000
+"Lambeth","1 Bedroom",440,1467,1250,1435,1600
+"Lambeth","2 Bedrooms",570,1838,1550,1750,2000
+"Lambeth","3 Bedrooms",220,2318,1840,2300,2600
+"Lewisham","Studio",70,989,900,995,1080
+"Lewisham","1 Bedroom",520,1177,1050,1150,1300
+"Lewisham","2 Bedrooms",680,1454,1300,1428,1600
+"Lewisham","3 Bedrooms",250,1835,1600,1800,2000
+"Merton","Studio",10,1000,875,1050,1075
+"Merton","1 Bedroom",170,1315,1150,1300,1450
+"Merton","2 Bedrooms",350,1651,1350,1575,1850
+"Merton","3 Bedrooms",160,2267,1710,2100,2675
+"Newham","Studio",30,1079,875,1000,1321
+"Newham","1 Bedroom",510,1260,1075,1200,1425
+"Newham","2 Bedrooms",600,1531,1321,1450,1675
+"Newham","3 Bedrooms",330,1794,1575,1700,1900
+"Redbridge","Studio",30,833,750,810,900
+"Redbridge","1 Bedroom",370,1133,1000,1100,1200
+"Redbridge","2 Bedrooms",600,1362,1250,1343,1450
+"Redbridge","3 Bedrooms",330,1673,1500,1650,1800
+"Richmond upon Thames","Studio",40,1009,870,1040,1100
+"Richmond upon Thames","1 Bedroom",340,1299,1150,1275,1400
+"Richmond upon Thames","2 Bedrooms",540,1752,1500,1670,1900
+"Richmond upon Thames","3 Bedrooms",240,2356,1777,2200,2750
+"Southwark","Studio",60,1165,1050,1115,1275
+"Southwark","1 Bedroom",810,1536,1300,1500,1733
+"Southwark","2 Bedrooms",1070,1982,1600,1850,2250
+"Southwark","3 Bedrooms",330,2416,2000,2300,2700
+"Sutton","Studio",60,791,725,800,850
+"Sutton","1 Bedroom",380,1001,900,975,1100
+"Sutton","2 Bedrooms",490,1277,1150,1250,1400
+"Sutton","3 Bedrooms",170,1666,1500,1610,1800
+"Tower Hamlets","Studio",70,1441,1196,1400,1582
+"Tower Hamlets","1 Bedroom",440,1593,1350,1550,1777
+"Tower Hamlets","2 Bedrooms",530,2013,1650,1850,2147
+"Tower Hamlets","3 Bedrooms",160,2368,1926,2275,2695
+"Waltham Forest","Studio",30,856,720,875,1000
+"Waltham Forest","1 Bedroom",470,1178,1050,1178,1290
+"Waltham Forest","2 Bedrooms",640,1447,1300,1425,1600
+"Waltham Forest","3 Bedrooms",300,1750,1550,1700,1900
+"Wandsworth","Studio",30,1113,1000,1050,1200
+"Wandsworth","1 Bedroom",410,1541,1350,1500,1677
+"Wandsworth","2 Bedrooms",740,1906,1600,1800,2102
+"Wandsworth","3 Bedrooms",310,2511,2000,2450,2850
+"Westminster","Studio",110,1421,1200,1300,1517
+"Westminster","1 Bedroom",460,2244,1777,2102,2513
+"Westminster","2 Bedrooms",410,3256,2427,2925,3662
+"Westminster","3 Bedrooms",140,5008,3185,4013,5612
